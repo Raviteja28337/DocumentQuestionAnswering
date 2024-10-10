@@ -6,10 +6,6 @@ This project utilizes LangChain to process documents, split them into manageable
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Code Structure](#code-structure)
-- [License](#license)
 
 ## Features
 
@@ -26,12 +22,4 @@ This project utilizes LangChain to process documents, split them into manageable
 - OpenAI
 - Chroma
 
-## Installation
 
-To set up the project, follow these steps:
-
-1. **Clone the Repository**:
-
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
